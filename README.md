@@ -1,15 +1,16 @@
 Hi 👋 My name is Atchyut Nagabhairava
 =====================================
 
-Javascript developer
+Engineer | Innovator | AI Enthusiast
 --------------------
 
 * 🌍  I'm based in Andhra Pradesh, India
 * 🖥️  See my portfolio at [My portfolio](http://www.atchyutn.com)
-* ✉️  You can contact me at [atchyutnagabhairava@gmail.com](mailto:atchyutnagabhairava@gmail.com)
-* 🧠  I'm learning React Native
-* 🤝  I'm open to collaborating on React Native project open issues
-* ⚡  My fondness towards electronics is incomparable
+* 🤝  You can contact me at [atchyutnagabhairava@gmail.com](mailto:atchyutnagabhairava@gmail.com)
+* 💻  Working on Next.js projects, focusing on server-side rendering and static site generation.
+* 📱  Building applications using React Native for cross-platform mobile development.
+* ⚡  Developing innovative digital solutions that streamline business processes and reduce costs.
+
 
 <a href="https://www.twitter.com/atchyutn" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/atchyutn?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -26,7 +27,7 @@ src="https://img.shields.io/github/followers/atchyutn?logo=github&style=for-the-
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angular-colored.svg" width="36" height="36" alt="Angular" /></a>
+
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
 </p>
@@ -45,6 +46,8 @@ src="https://img.shields.io/github/followers/atchyutn?logo=github&style=for-the-
 <a href="http://www.github.com/atchyutn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=atchyutn&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/atchyutn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atchyutn&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+[![Check out atchyutn's profile on stardev.io](https://stardev.io/developers/atchyutn/badge/languages/global.svg)](https://stardev.io/developers/atchyutn)
 
 ### Support Me
 
